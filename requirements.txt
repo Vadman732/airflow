@@ -1,0 +1,11 @@
+apache-airflow[postgres,redis,celery]
+psycopg2-binary
+requests
+pandas
+numpy
+scikit-learn
+apache-airflow-providers-amazon
+apache-airflow-providers-http
+apache-airflow-providers-docker
+apache-airflow-providers-slack
+apache-airflow-providers-postgres
